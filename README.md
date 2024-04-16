@@ -4,7 +4,7 @@ SCINT 北台灣學生資訊社群 ---- 文書
   
 **我不會寫程式**  
   
-discord:syu_418  
+discord : syu_418  
 instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)  
 * 社群經歷：
 	* 2023 CISCON 社群月 SCINT 社群人員
