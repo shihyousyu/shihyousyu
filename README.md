@@ -14,5 +14,6 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
 	* 2024 SITCON 與會者
 * 競賽經歷：
 	* 2023 YTP 少年圖靈計畫 線上初賽
-	* HSPC 2023 國立成功大學暑期高中生程式設計邀請賽 初賽65 名
+	* HSPC 2023 國立成功大學暑期高中生程式設計邀請賽 初賽 rank 65
 	* 112 學年度 數理及資訊學科能力競賽 資訊科 校內初賽 一等獎
+ 	* HSPC 2024 國立成功大學暑期高中生程式設計邀請賽 初賽 rank 110
