@@ -12,6 +12,8 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
 	* 2023 HITCON 與會者
 	* 2023 SITCON Camp 學員
 	* 2024 SITCON 與會者
+ 	* 2024 SITCON Camp 學員
+  	* 2024 COSCUP 與會者、場佈
 * 競賽經歷：
 	* 2023 YTP 少年圖靈計畫 線上初賽
 	* HSPC 2023 國立成功大學暑期高中生程式設計邀請賽 初賽 rank 65
