@@ -26,4 +26,4 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
   	* 2024 YTP 少年圖靈計畫 程式挑戰營
 
   
-[![wakatime](https://wakatime.com/badge/user/8a6b674e-882a-47e1-bdf4-93fe04f523c6/project/00491d86-800b-403f-93c5-f94fa52c1105.svg)](https://wakatime.com/badge/user/8a6b674e-882a-47e1-bdf4-93fe04f523c6/project/00491d86-800b-403f-93c5-f94fa52c1105)
+<a href="https://wakatime.com/badge/user/8a6b674e-882a-47e1-bdf4-93fe04f523c6/project/00491d86-800b-403f-93c5-f94fa52c1105"><img src="https://wakatime.com/badge/user/8a6b674e-882a-47e1-bdf4-93fe04f523c6/project/00491d86-800b-403f-93c5-f94fa52c1105.svg" alt="wakatime"></a>
