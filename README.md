@@ -25,8 +25,11 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
  	* HSPC 2024 國立成功大學暑期高中生程式設計邀請賽 初賽 rank 110
   	* 2024 YTP 少年圖靈計畫 線上初賽 rank 57
   	* 2024 YTP 少年圖靈計畫 程式挑戰營
-
-<img width=400 src="https://github-readme-stats.vercel.app/api/wakatime?username=Syu&theme=transparent&title_color=286CF6&text_color=286CF6&hide_border=true&layout=compact&langs_count=22&range=all_time" alt="WakaTime Stats">
+  
+coding time:  
+<!--START_SECTION:waka-->
+尚未更新...  
+<!--END_SECTION:waka-->
 <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
   
 [![wakatime](https://wakatime.com/badge/user/8a6b674e-882a-47e1-bdf4-93fe04f523c6.svg)](https://wakatime.com/@8a6b674e-882a-47e1-bdf4-93fe04f523c6)
