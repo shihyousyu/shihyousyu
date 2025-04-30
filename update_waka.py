@@ -6,7 +6,7 @@ START = "<!--START_SECTION:waka-->"
 END = "<!--END_SECTION:waka-->"
 
 def fetch_waka_all_time(api_key):
-    url = "https://wakatime.com/api/v1/users/current/stats/all_time"
+    url = "https://wakatime.com/api/v1/users/current/stats/last_7_days"
     headers = {"Authorization": f"Bearer {api_key}"}
     res = requests.get(url, headers=headers)
     if res.status_code != 200:
