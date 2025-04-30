@@ -13,7 +13,7 @@ def fetch(username):
     return response.json()["data"]
 
 def format(data):
-    l = []
+    l = [f"Coding Time：{data['categories'][0]['text']}"]
     l.append("## Language：")
     for i in data['languages'][:5]:
         name = i['name']
@@ -37,7 +37,7 @@ def main():
     data = fetch("Syu")
     result = format(data)
     print(result)
-    update(result)
+    #update(result)
 
 if __name__ == "__main__":
     main()
