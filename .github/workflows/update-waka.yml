@@ -32,3 +32,16 @@ jobs:
         git add README.md
         git commit -m "🔄 自動更新 WakaTime 資料" || echo "沒有變更"
         git push
+    - name: Debug WakaTime key & endpoint
+      env:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      run: |
+        echo "API key 長度 (不包含換行):" $(echo -n "$WAKATIME_API_KEY" | wc -c)
+        echo "Header 範例：" 
+        echo "  Authorization: Bearer ${WAKATIME_API_KEY:0:4}…"
+        echo "呼叫 last_7_days endpoint 測試："
+        curl -i -H "Authorization: Bearer $WAKATIME_API_KEY" \
+          https://wakatime.com/api/v1/users/current/stats/last_7_days | head -n 10
+        echo "呼叫 all_time endpoint測試："
+        curl -i -H "Authorization: Bearer $WAKATIME_API_KEY" \
+          https://wakatime.com/api/v1/users/current/stats/all_time | head -n 10
