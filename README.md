@@ -27,8 +27,8 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
 * 2024 YTP 少年圖靈計畫 程式挑戰營
   
 <!--START_SECTION:waka-->
-Coding Time：5 hrs 22 mins
-## Language：
+## Coding Time：5 hrs 22 mins
+### Language：
 - C++: 3 hrs 28 mins (62.4%)
 - HTML: 1 hr 27 mins (26.3%)
 - Other: 33 mins (10.0%)
