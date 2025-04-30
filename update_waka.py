@@ -1,5 +1,4 @@
 import requests
-import os
 
 README = "README.md"
 START = "<!--START_SECTION:waka-->"
