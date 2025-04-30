@@ -1,0 +1,20 @@
+name: WakaTime Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          API_BASE_URL: ${{ WAKAPI_BASE_URL }}
+          WAKAPI_API_KEY: ${{ WAKAPI_API_KEY }}
+          COMMIT_MESSAGE: Update Wakapi stats
+          BLOCKS: "⬜🟨🟩"
+          TIME_RANGE: all_time
+          SHOW_TIME: true
