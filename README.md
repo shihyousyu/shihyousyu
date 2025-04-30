@@ -3,8 +3,6 @@
 台南大學 資訊工程系 117級  
 SCINT 北台灣學生資訊社群 ---- 文書  
   
-**我不會寫程式**  
-  
 discord : syu_418  
 instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)  
   
@@ -37,7 +35,5 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
 <!--END_SECTION:waka-->
   
 <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Syu&theme=transparent&title_color=b7e0f3&text_color=8ab0c6&hide_border=true&layout=compact&langs_count=22&range=all_time" alt="Wakatime State" />
-
   
 [![wakatime](https://wakatime.com/badge/user/8a6b674e-882a-47e1-bdf4-93fe04f523c6.svg)](https://wakatime.com/@8a6b674e-882a-47e1-bdf4-93fe04f523c6)
