@@ -4,7 +4,8 @@ on:
   schedule:
     - cron: '0 * * * *'  # 每小時執行一次
   workflow_dispatch:     # 也允許手動執行
-
+permissions:
+  contents: write
 jobs:
   update-readme:
     runs-on: ubuntu-latest
