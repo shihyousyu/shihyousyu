@@ -26,11 +26,3 @@ end = old.find(END)
 new = old[:start + len(START)] + "\n" + s + "\n" + old[end:]
 with open(README, "w", encoding="utf-8") as f:
     f.write(new)
-
-def main():
-    data = fetch("Syu")
-    result = format(data)
-    #update(result)
-
-if __name__ == "__main__":
-    main()
