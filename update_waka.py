@@ -4,12 +4,12 @@ README = "README.md"
 START = "<!--START_SECTION:waka-->"
 END = "<!--END_SECTION:waka-->"
 
-api_url = f"https://wakatime.com/api/v1/users/Syu/stats"
-response = requests.get(api_url).json()["data"]
+url = f"https://wakatime.com/api/v1/users/Syu/stats"
+res = requests.get(url).json()["data"]
 
-l = [f"## WakaTime：{response['categories'][0]['text']}"]
+l = [f"## WakaTime：{res['categories'][0]['text']}"]
 l.append("### Language：")
-for i in response['languages'][:5]:
+for i in res['languages'][:5]:
     name = i['name']
     time = i['text']
     percent = i['percent']
