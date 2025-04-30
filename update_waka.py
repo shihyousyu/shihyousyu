@@ -8,8 +8,8 @@ END = "<!--END_SECTION:waka-->"
 api_url = f"https://{'wakatime.com'}/api/v1/users/Syu/stats"
 response = requests.get(api_url).json()["data"]
 
-l = [f"Coding Time：{response['categories'][0]['text']}"]
-l.append("## Language：")
+l = [f"## Coding Time：{response['categories'][0]['text']}"]
+l.append("### Language：")
 for i in response['languages'][:5]:
     name = i['name']
     time = i['text']
