@@ -5,12 +5,10 @@ README = "README.md"
 START = "<!--START_SECTION:waka-->"
 END = "<!--END_SECTION:waka-->"
 
-def fetch_waka_all_time(api_key):
+def fetch(key):
     url = "https://wakatime.com/api/v1/users/current/stats/last_7_days"
-    headers = {"Authorization": f"Bearer {api_key}"}
-    res = requests.get(url, headers=headers)
-    if res.status_code != 200:
-        raise Exception("WakaTime API 錯誤：" + res.text)
+    headers = {"Authorization": f"Bearer {key}"}
+    res = requests.get(url, headers = headers)
     return res.json()
 
 def format_stats(data):
@@ -39,8 +37,8 @@ def update_readme(content):
         f.write(new)
 
 def main():
-    api_key = os.getenv("WAKATIME_API_KEY")
-    data = fetch_waka_all_time(api_key)
+    key = os.getenv("WAKATIME_API_KEY")
+    data = fetch(key)
     formatted = format_stats(data)
     update_readme(formatted)
 
