@@ -7,6 +7,11 @@ SCINT 北台灣學生資訊社群 ---- 文書
   
 discord : syu_418  
 instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)  
+<p align="left">
+    <img width=500 src="https://github-readme-stats.vercel.app/api?username=shihyousyu&theme=transparent&hide_border=true&count_private=true&show_icons=true" alt="Syu's GitHub Stats">
+    <img width=500 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
+</p>
+  
 * 社群經歷：
 	* 2023 CISCON 社群月 SCINT 社群人員
 	* 2023 COSCUP 與會者
@@ -24,7 +29,6 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
  	* HSPC 2024 國立成功大學暑期高中生程式設計邀請賽 初賽 rank 110
   	* 2024 YTP 少年圖靈計畫 線上初賽 rank 57
   	* 2024 YTP 少年圖靈計畫 程式挑戰營
-
   
-[//]: # (wakatime-stats)
-[//]: # (end-wakatime-stats)
+<img width=460 src="https://github-readme-stats.vercel.app/api/wakatime?username=Syu&theme=transparent&title_color=286CF6&text_color=286CF6&hide_border=true&layout=compact&langs_count=22&range=all_time" alt="WakaTime Stats">
+
