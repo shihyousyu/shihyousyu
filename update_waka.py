@@ -14,7 +14,7 @@ def fetch_waka_all_time(api_key):
     return res.json()
 
 def format_stats(data):
-    lines = [f"🕒 累積編碼時間：{data['data']['text']}"]
+    lines = [f"🕒 累積時間：{data['data']['text']}"]
     lines.append("## 最常用語言：")
     for lang in data['data']['languages'][:5]:
         name = lang['name']
