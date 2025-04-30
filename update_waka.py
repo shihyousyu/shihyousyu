@@ -5,7 +5,7 @@ README = "README.md"
 START = "<!--START_SECTION:waka-->"
 END = "<!--END_SECTION:waka-->"
 
-api_url = f"https://{'wakatime.com'}/api/v1/users/Syu/stats"
+api_url = f"https://wakatime.com/api/v1/users/Syu/stats"
 response = requests.get(api_url).json()["data"]
 
 l = [f"## Coding Time：{response['categories'][0]['text']}"]
