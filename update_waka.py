@@ -1,8 +1,5 @@
 import requests
 import os
-from flask import Flask, request, Response
-
-app = Flask(__name__)
 
 README = "README.md"
 START = "<!--START_SECTION:waka-->"
