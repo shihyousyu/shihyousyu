@@ -35,5 +35,3 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
 <!--END_SECTION:waka-->
   
 <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
-  
-[![wakatime](https://wakatime.com/badge/user/8a6b674e-882a-47e1-bdf4-93fe04f523c6.svg)](https://wakatime.com/@8a6b674e-882a-47e1-bdf4-93fe04f523c6)
