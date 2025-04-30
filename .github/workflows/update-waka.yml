@@ -2,7 +2,7 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 2 * * *'  # 每天台灣時間上午 10 點更新
+    - cron: '0 38 * * *'
   workflow_dispatch:
 
 jobs:
