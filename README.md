@@ -26,7 +26,6 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
   	* 2024 YTP 少年圖靈計畫 線上初賽 rank 57
   	* 2024 YTP 少年圖靈計畫 程式挑戰營
   
-coding time:  
 <!--START_SECTION:waka-->
 尚未更新...  
 <!--END_SECTION:waka-->
