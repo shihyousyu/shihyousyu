@@ -1,0 +1,34 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    - cron: '0 2 * * *'  # 每天台灣時間上午 10 點更新
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: 設定 Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: 安裝依賴
+      run: pip install requests
+
+    - name: 執行腳本
+      env:
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+      run: python update_waka.py
+
+    - name: 提交變更
+      run: |
+        git config user.name github-actions
+        git config user.email github-actions@github.com
+        git add README.md
+        git commit -m "🔄 自動更新 WakaTime 資料" || echo "沒有變更"
+        git push
