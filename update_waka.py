@@ -13,7 +13,7 @@ for i in res['languages'][:5]:
     name = i['name']
     time = i['text']
     percent = i['percent']
-    l.append(f"- {name}: {time} ({percent:.1f}%)\n")
+    l.append(f"- {name}: {time} ({percent:.1f}%)\t\t")
     l.append("🟩" * (int(percent) // 5) + "⬜️" * (20 - int(percent) // 5))
 s = "\n".join(l)
 
