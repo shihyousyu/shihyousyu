@@ -27,16 +27,11 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
 <!--START_SECTION:waka-->
 ## WakaTime：5 hrs 22 mins
 ### Language：
-############\-\-\-\-\-\-\-\-&emsp;
-- C++: 3 hrs 28 mins (62.4%)
-#####\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-&emsp;
-- HTML: 1 hr 27 mins (26.3%)
-##\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-&emsp;
-- Other: 33 mins (10.0%)
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-&emsp;
-- Python: 3 mins (1.2%)
-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-&emsp;
-- Markdown: 0 secs (0.1%)
+############\-\-\-\-\-\-\-\-&emsp;- C++: 3 hrs 28 mins (62.4%)
+#####\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-&emsp;- HTML: 1 hr 27 mins (26.3%)
+##\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-&emsp;- Other: 33 mins (10.0%)
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-&emsp;- Python: 3 mins (1.2%)
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-&emsp;- Markdown: 0 secs (0.1%)
 <!--END_SECTION:waka-->
   
 <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
