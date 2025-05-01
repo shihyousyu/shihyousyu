@@ -8,12 +8,14 @@ url = f"https://wakatime.com/api/v1/users/Syu/stats"
 res = requests.get(url).json()["data"]
 
 l = [f"## WakaTime：{res['categories'][0]['text']}"]
-l.append("### Language：")
+l.append("### Language：  ")
+l.append("```  ")
 for i in res['languages'][:5]:
     name = i['name']
     time = i['text']
     percent = i['percent']
-    l.append("█" * (int(percent) // 5) + "░" * (20 - int(percent) // 5) + "&emsp;" + f"- {name}: {time} ({percent:.1f}%)  ")
+    l.append("" * (int(percent) // 5) + "░" * (20 - int(percent) // 5) + "&emsp;" + f"- {name}: {time} ({percent:.1f}%)  ")
+l.append("```  ")
 s = "\n".join(l)
 
 with open(README, "r", encoding="utf-8") as f:
