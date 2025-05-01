@@ -13,8 +13,8 @@ for i in res['languages'][:5]:
     name = i['name']
     time = i['text']
     percent = i['percent']
-    l.append(f"- {name}: {time} ({percent:.1f}%)&emsp;&emsp;")
-    l.append("#" * (int(percent) // 5) + "\-" * (20 - int(percent) // 5))
+    l.append("#" * (int(percent) // 5) + "\-" * (20 - int(percent) // 5) + "&emsp;")
+    l.append(f"- {name}: {time} ({percent:.1f}%)")
 s = "\n".join(l)
 
 with open(README, "r", encoding="utf-8") as f:
