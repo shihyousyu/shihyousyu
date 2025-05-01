@@ -14,7 +14,7 @@ for i in res['languages'][:5]:
     name = i['name']
     time = i['text']
     percent = i['percent']
-    l.append("█" * (int(percent) // 5) + "░" * (20 - int(percent) // 5) + "    " + f"- {name}: {time} ({percent:.1f}%)  ")
+    l.append("█" * (int(percent) // 2) + "░" * (50 - int(percent) // 2) + "    " + f"- {name}: {time} ({percent:.1f}%)  ")
 l.append("```  ")
 s = "\n".join(l)
 
