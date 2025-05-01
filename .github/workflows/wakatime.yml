@@ -2,8 +2,8 @@ name: Update WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 * * * *'  # 每小時執行一次
-  workflow_dispatch:     # 也允許手動執行
+    - cron: '* 8 * * *'
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
