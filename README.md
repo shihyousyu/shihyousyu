@@ -25,7 +25,12 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
 * 2024 YTP 少年圖靈計畫 程式挑戰營
   
 ## GitHub stats
-[![Syu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihyousyu&theme=transparent&hide_border=True&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
+  
+<p align="center">
+<img width=400 src="https://github-readme-stats.vercel.app/api?username=shihyousyu&theme=transparent&hide_border=True&text_color=FFFFFF&title_color=FFFFFF" alt="Syu's GitHub stats">
+<img width=500 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
+
+  
 <!--START_SECTION:waka-->
 ## WakaTime：10 hrs 30 mins
 ### Language：  
@@ -38,4 +43,3 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
 ```  
 <!--END_SECTION:waka-->
   
-<img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
