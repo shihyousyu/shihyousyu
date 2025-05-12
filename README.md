@@ -3,9 +3,6 @@
 台南大學 資訊工程系 117級  
 SCINT 北台灣學生資訊社群 ---- 文書  
   
-discord : syu_418  
-instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)  
-    
 ## GitHub stats
   
 <p align="center">
@@ -45,3 +42,6 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
 * HSPC 2024 國立成功大學暑期高中生程式設計邀請賽 初賽 rank 110
 * 2024 YTP 少年圖靈計畫 線上初賽 rank 57
 * 2024 YTP 少年圖靈計畫 程式挑戰營
+  
+discord : syu_418  
+instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)  
