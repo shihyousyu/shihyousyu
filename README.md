@@ -24,6 +24,8 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
 * 2024 YTP 少年圖靈計畫 線上初賽 rank 57
 * 2024 YTP 少年圖靈計畫 程式挑戰營
   
+## GitHub stats
+[![Syu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihyousyu&theme=transparent&hide_border=True&text_color=FFFFFF&title_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ## WakaTime：10 hrs 30 mins
 ### Language：  
