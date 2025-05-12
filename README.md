@@ -28,7 +28,10 @@ instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)
   
 <p align="center">
 <img width=400 src="https://github-readme-stats.vercel.app/api?username=shihyousyu&theme=transparent&hide_border=True&text_color=FFFFFF&title_color=FFFFFF" alt="Syu's GitHub stats">
-<img width=500 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
+<img width="400" src="https://github-readme-streak-stats-six-nu.vercel.app/?user=shihyousyu&theme=dark&mode=weekly&background=EBEBEB00&fire=B7E0F3&currStreakNum=AEE5FF&sideLabels=B7E0F3&sideNums=B7E0F3&ring=B7E0F3&currStreakLabel=AEE5FF&border=EBEBEB00" alt="GitHub Streak" />
+</p>
+  
+<img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
 
   
 <!--START_SECTION:waka-->
