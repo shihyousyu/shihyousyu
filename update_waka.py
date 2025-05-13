@@ -16,6 +16,16 @@ for i in res['languages'][:5]:
     percent = i['percent']
     l.append("█" * (int(percent) // 2) + "░" * (50 - int(percent) // 2) + "    " + f"- {name}: {time} ({percent:.1f}%)  ")
 l.append("```  ")
+
+l.append("### Operating Systems：  ")
+l.append("```  ")
+for i in res['languages'][:5]:
+    name = i['name']
+    time = i['text']
+    percent = i['percent']
+    l.append("█" * (int(percent) // 2) + "░" * (50 - int(percent) // 2) + "    " + f"- {name}: {time} ({percent:.1f}%)  ")
+l.append("```  ")
+
 s = "\n".join(l)
 
 with open(README, "r", encoding="utf-8") as f:
