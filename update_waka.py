@@ -19,7 +19,7 @@ l.append("```  ")
 
 l.append("### Operating Systems：  ")
 l.append("```  ")
-for i in res['languages'][:5]:
+for i in res['operating_systems'][:5]:
     name = i['name']
     time = i['text']
     percent = i['percent']
