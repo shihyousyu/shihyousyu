@@ -10,7 +10,7 @@ res = requests.get(url).json()["data"]
 l = [f"## WakaTime：{res['categories'][0]['text']}"]
 l.append("### Language：  ")
 l.append("```  ")
-for i in res['languages'][:5]:
+for i in res['languages']:
     name = i['name']
     time = i['text']
     percent = i['percent']
@@ -19,7 +19,7 @@ l.append("```  ")
 
 l.append("### Operating Systems：  ")
 l.append("```  ")
-for i in res['operating_systems'][:5]:
+for i in res['operating_systems']:
     name = i['name']
     time = i['text']
     percent = i['percent']
