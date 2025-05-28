@@ -1,4 +1,4 @@
-<p align="center"><h1>Syu</h1></p>
+<h1 align="center">Syu</h1>
 <p align="center">
   <a href="https://instagram.com/shih.yousyu">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 8px;" />
