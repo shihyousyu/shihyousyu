@@ -1,4 +1,19 @@
-# <p align="center"><b>Syu</b></p>
+<h1 align="center">Syu</h1>
+<p align="center">
+  <a href="https://instagram.com/shih.yousyu">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 8px;" />
+  </a>
+  <a href="https://discord.com/users/894375291097583616">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" style="margin-right: 8px;" />
+  </a>
+  <a href="mailto:leo950518@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 8px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/you-syu-shih">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 8px;" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=shihyousyu&color=8ab0c6" alt="Profile Views" />
+</p>
   
 嘉義高中 113 級  
 台南大學 資訊工程系 117級  
@@ -33,6 +48,10 @@ SCINT 北台灣學生資訊社群 ---- 文書
 ```  
 <!--END_SECTION:waka-->
   
+<table>
+<tr>
+<td width="50%";>
+
 ## 社群經歷：
 * 2023 CISCON 社群月 SCINT 社群人員
 * 2023 COSCUP 與會者
@@ -43,7 +62,10 @@ SCINT 北台灣學生資訊社群 ---- 文書
 * 2024 COSCUP 與會者、場佈
 * 2024 HITCON 與會者
 * 2025 SITCON 與會者
-  
+
+</td>
+<td width="50%";>
+
 ## 競賽經歷：
 * 2023 YTP 少年圖靈計畫 線上初賽
 * HSPC 2023 國立成功大學暑期高中生程式設計邀請賽 初賽 rank 65
@@ -51,6 +73,10 @@ SCINT 北台灣學生資訊社群 ---- 文書
 * HSPC 2024 國立成功大學暑期高中生程式設計邀請賽 初賽 rank 110
 * 2024 YTP 少年圖靈計畫 線上初賽 rank 57
 * 2024 YTP 少年圖靈計畫 程式挑戰營
+
+</td>
+</tr>
+</table>
   
 discord : syu_418  
 instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)  
