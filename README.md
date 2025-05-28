@@ -33,10 +33,6 @@ SCINT 北台灣學生資訊社群 ---- 文書
 ```  
 <!--END_SECTION:waka-->
   
-<table>
-<tr>
-<td width="50%";>
-
 ## 社群經歷：
 * 2023 CISCON 社群月 SCINT 社群人員
 * 2023 COSCUP 與會者
@@ -47,10 +43,7 @@ SCINT 北台灣學生資訊社群 ---- 文書
 * 2024 COSCUP 與會者、場佈
 * 2024 HITCON 與會者
 * 2025 SITCON 與會者
-
-</td>
-<td width="50%";>
-
+  
 ## 競賽經歷：
 * 2023 YTP 少年圖靈計畫 線上初賽
 * HSPC 2023 國立成功大學暑期高中生程式設計邀請賽 初賽 rank 65
@@ -58,10 +51,6 @@ SCINT 北台灣學生資訊社群 ---- 文書
 * HSPC 2024 國立成功大學暑期高中生程式設計邀請賽 初賽 rank 110
 * 2024 YTP 少年圖靈計畫 線上初賽 rank 57
 * 2024 YTP 少年圖靈計畫 程式挑戰營
-
-</td>
-</tr>
-</table>
   
 discord : syu_418  
 instagram : [shih.yousyu](https://www.instagram.com/shih.yousyu/)  
