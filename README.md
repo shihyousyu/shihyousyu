@@ -1,13 +1,13 @@
-<h1 align="center">Syu</h1>
+<p align="center"><h1>Syu</h1></p>
 <p align="center">
   <a href="https://instagram.com/shih.yousyu">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" style="margin-right: 8px;" />
   </a>
   <a href="https://discord.com/users/894375291097583616">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" style="margin-right: 8px;" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="syu_418" style="margin-right: 8px;" />
   </a>
   <a href="mailto:leo950518@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" style="margin-right: 8px;" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="leo950518@gmail.com" style="margin-right: 8px;" />
   </a>
   <a href="https://www.linkedin.com/in/you-syu-shih">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 8px;" />
