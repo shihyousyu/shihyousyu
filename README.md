@@ -12,11 +12,11 @@ SCINT 北台灣學生資訊社群 ---- 文書
 <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
   
 <!--START_SECTION:waka-->
-## WakaTime：62 hrs 27 mins
+## WakaTime：62 hrs 30 mins
 ### Language：  
 ```  
 █████████████████████████████░░░░░░░░░░░░░░░░░░░░░    - C++: 37 hrs 12 mins (59.2%)  
-████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Python: 10 hrs 27 mins (16.7%)  
+████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Python: 10 hrs 30 mins (16.7%)  
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Assembly: 3 hrs 33 mins (5.7%)  
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - HTML: 3 hrs 15 mins (5.2%)  
 █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Bash: 2 hrs 24 mins (3.8%)  
@@ -30,7 +30,7 @@ SCINT 北台灣學生資訊社群 ---- 文書
 ```  
 ### Operating Systems：  
 ```  
-███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░    - Windows: 34 hrs 49 mins (55.4%)  
+███████████████████████████░░░░░░░░░░░░░░░░░░░░░░░    - Windows: 34 hrs 51 mins (55.5%)  
 ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Mac: 15 hrs 38 mins (24.9%)  
 █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Linux: 12 hrs 21 mins (19.7%)  
 ```  
