@@ -9,10 +9,8 @@ SCINT 北台灣學生資訊社群 ---- 文書
 <img width=400 src="https://github-readme-stats.vercel.app/api?username=shihyousyu&theme=transparent&hide_border=True&text_color=FFFFFF&title_color=FFFFFF" alt="Syu's GitHub stats">
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=shihyousyu&theme=dark&mode=weekly&background=EBEBEB00&fire=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF&border=EBEBEB00" alt="GitHub Streak" />
 </p>
-<p align="center">
-<img width=600 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
-<img width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihyousyu&layout=compact&theme=dark&hide_border=true&text_color=FFFFFF&title_color=FFFFFF&bg_color=00000000" alt="Syu's Top Languages">
-</p>
+<img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
+<img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihyousyu&layout=compact&theme=dark&hide_border=true&text_color=FFFFFF&title_color=FFFFFF&bg_color=00000000" alt="Syu's Top Languages">
   
 <!--START_SECTION:waka-->
 ## WakaTime：68 hrs 30 mins
