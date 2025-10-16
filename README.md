@@ -16,12 +16,12 @@ SCINT 北台灣學生資訊社群 ---- 文書
 <!-- <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihyousyu&layout=donut-vertical&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF">-->
   
 <!--START_SECTION:waka-->
-## WakaTime：84 hrs 27 mins
+## WakaTime：84 hrs 30 mins
 ### Language：  
 ```  
 ███████████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░    - C++: 39 hrs 39 mins (46.2%)  
 ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Python: 11 hrs 9 mins (13.0%)  
-█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Java: 9 hrs 14 mins (10.8%)  
+█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Java: 9 hrs 17 mins (10.8%)  
 ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - HTML: 7 hrs 14 mins (8.4%)  
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Assembly: 3 hrs 33 mins (4.2%)  
 █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Other: 3 hrs 10 mins (3.7%)  
@@ -37,7 +37,7 @@ SCINT 北台灣學生資訊社群 ---- 文書
 ```  
 ### Operating Systems：  
 ```  
-█████████████████████████████████░░░░░░░░░░░░░░░░░    - Windows: 56 hrs 46 mins (66.2%)  
+█████████████████████████████████░░░░░░░░░░░░░░░░░    - Windows: 56 hrs 48 mins (66.2%)  
 █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Mac: 16 hrs 22 mins (19.1%)  
 ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Linux: 12 hrs 37 mins (14.7%)  
 ```  
