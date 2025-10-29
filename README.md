@@ -52,7 +52,7 @@ SCINT 北台灣學生資訊社群 ---- 文書
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
   
-#### Practice
+### Practice
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
