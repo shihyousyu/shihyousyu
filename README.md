@@ -47,20 +47,13 @@ SCINT 北台灣學生資訊社群 ---- 文書
   
 ## Tech Stack
 ### Web
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?logo=vue.js&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=vue,html,css,javascript)](https://skillicons.dev)  
   
 ### Previously used
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python)](https://skillicons.dev)
   
 ### Currently Learning
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-  
+[![My Skills](https://skillicons.dev/icons?i=rust,go)](https://skillicons.dev)  
 ## 社群經歷：
 * 2023 CISCON 社群月 SCINT 社群人員
 * 2023 COSCUP 與會者
