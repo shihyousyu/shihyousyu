@@ -50,7 +50,7 @@ SCINT 北台灣學生資訊社群 ---- 文書
 [![My Skills](https://skillicons.dev/icons?i=vue,html,css,javascript)](https://skillicons.dev)  
   
 ### Previously used
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
   
 ### Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=rust,go)](https://skillicons.dev)  
