@@ -53,7 +53,7 @@ SCINT 北台灣學生資訊社群 ---- 文書
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
   
 ### Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=rust,go)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,rust,go)](https://skillicons.dev)  
 ## 社群經歷：
 * 2023 CISCON 社群月 SCINT 社群人員
 * 2023 COSCUP 與會者
