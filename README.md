@@ -85,7 +85,7 @@ SCINT 北台灣學生資訊社群 ---- 文書
   <a href="mailto:leo950518@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="leo950518@gmail.com" style="margin-right: 8px;" />
   </a>
-  <a href="https://www.linkedin.com/in/you-syu-shih">
+  <a href="www.linkedin.com/in/宥旭-施-396060303">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 8px;" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=shihyousyu&color=8ab0c6" alt="Profile Views" />
