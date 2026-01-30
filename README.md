@@ -17,6 +17,7 @@ SCINT 北台灣學生資訊社群 ---- 文書
 <!-- <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihyousyu&layout=donut-vertical&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF">-->
   
 <!--START_SECTION:waka-->
+<details>
 <summary><h2>WakaTime：172 hrs 38 mins</h2></summary>
 <h3>Language</h3>
 ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - C++: 40 hrs 10 mins (23.3%)  
