@@ -55,7 +55,10 @@ SCINT 北台灣學生資訊社群 ---- 文書
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)  
-  
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=supabase,cloudflare,sqlite)](https://skillicons.dev)  
+
 ### Previously used
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
   
