@@ -26,7 +26,7 @@ def toHour(total_minutes):
     m = int(total_minutes % 60)
     return f"{h} hrs {m} mins"
 
-s = toHour(sum(parse(res["data"]["categories"][i]["text"] for i in range(len(res["data"]["categories"]))))
+s = toHour(sum(parse(res["data"]["categories"][i]["text"] for i in range(len(res["data"]["categories"])))))
 
 l = [f"## WakaTime：{s}"]
 l.append("### Language：  ")
