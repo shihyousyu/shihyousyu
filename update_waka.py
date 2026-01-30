@@ -28,7 +28,7 @@ def toHour(total_minutes):
 
 s = toHour(sum([parse(res["categories"][i]["text"])for i in range(len(res["categories"]))]))
 
-l = [f"<summary><h2>WakaTime：{s}</h2></summary>"]
+l = ["<details>", f"<summary><h2>WakaTime：{s}</h2></summary>"]
 l.append("<h3>Language</h3>")
 for i in res['languages']:
     name = i['name']
