@@ -28,24 +28,21 @@ def toHour(total_minutes):
 
 s = toHour(sum([parse(res["categories"][i]["text"])for i in range(len(res["categories"]))]))
 
-l = [f"## WakaTime：{s}"]
-l.append("### Language：  ")
-l.append("```  ")
+l = [f"<summary><h2>WakaTime：{s}</h2></summary>"]
+l.append("<h3>Language</h3>")
 for i in res['languages']:
     name = i['name']
     time = i['text']
     percent = i['percent']
     l.append("█" * (int(percent) // 2) + "░" * (50 - int(percent) // 2) + "    " + f"- {name}: {time} ({percent:.1f}%)  ")
-l.append("```  ")
 
-l.append("### Operating Systems：  ")
-l.append("```  ")
+l.append("<h3>Operating system</h3>")
 for i in res['operating_systems']:
     name = i['name']
     time = i['text']
     percent = i['percent']
     l.append("█" * (int(percent) // 2) + "░" * (50 - int(percent) // 2) + "    " + f"- {name}: {time} ({percent:.1f}%)  ")
-l.append("```  ")
+l.append("</details>")
 
 s = "\n".join(l)
 
