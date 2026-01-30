@@ -52,6 +52,9 @@ SCINT 北台灣學生資訊社群 ---- 文書
 ## Tech Stack
 ### Web
 [![My Skills](https://skillicons.dev/icons?i=vue,html,css,javascript)](https://skillicons.dev)  
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)  
   
 ### Previously used
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
