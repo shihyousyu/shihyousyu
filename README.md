@@ -50,11 +50,8 @@ SCINT 北台灣學生資訊社群 ---- 文書
 <!--END_SECTION:waka-->
   
 ## Tech Stack
-### Web
-[![My Skills](https://skillicons.dev/icons?i=vue,html,css,javascript)](https://skillicons.dev)  
-
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=vue,html,css,javascript,flutter,dart)](https://skillicons.dev)  
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=supabase,cloudflare,sqlite)](https://skillicons.dev)  
