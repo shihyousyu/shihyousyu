@@ -1,12 +1,20 @@
 import requests
 import re
+from requests.auth import HTTPBasicAuth
+import base64
 
 README = "README.md"
 START = "<!--START_SECTION:waka-->"
 END = "<!--END_SECTION:waka-->"
+api_key = "waka_de9b804e-052e-429f-8bad-5c3ee8e54e03"
 
 url = f"https://wakatime.com/api/v1/users/Syu/stats"
-res = requests.get(url).json()["data"]
+headers = {
+    "Authorization": f"Basic {base64.b64encode(api_key.encode()).decode()}"
+}
+r = requests.get("https://wakatime.com/api/v1/users/current/stats/last_7_days", headers=headers)
+
+res = r.json()["data"]
 
 def parse(text):
     h = m = s = 0
@@ -26,7 +34,7 @@ def toHour(total_minutes):
     m = int(total_minutes % 60)
     return f"{h} hrs {m} mins"
 
-s = toHour(sum([parse(res["categories"][i]["text"])for i in range(len(res["categories"]))]))
+s = toHour(sum([parse(res["categories"][i]["name"])for i in range(len(res["categories"]))]))
 
 l = ["<details>", f"<summary><h2>WakaTime：{s}</h2></summary>"]
 l.append("<h3>Language</h3>")
