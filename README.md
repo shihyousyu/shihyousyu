@@ -42,7 +42,7 @@ SCINT 北台灣學生資訊社群 ---- 文書
 
 <!--START_SECTION:waka-->
 <details>
-<summary><h2>WakaTime：205 hrs 49 mins</h2></summary>
+<summary><h2>WakaTime：205 hrs 49 mins (until Apr 8, 2026, the crawler dead)</h2></summary>
 <h3>Language</h3>
 ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - C++: 42 hrs 3 mins (20.4%)  
 █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Java: 38 hrs 28 mins (18.7%)  
