@@ -1,34 +1,34 @@
-# name: Update WakaTime Stats
+name: Update WakaTime Stats
 
-# on:
-#   schedule:
-#     - cron: '0 0 * * *'
-#   workflow_dispatch:
-# permissions:
-#   contents: write
-# jobs:
-#   update-readme:
-#     runs-on: ubuntu-latest
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
 
-#     steps:
-#       - name: Checkout Repo
-#         uses: actions/checkout@v3
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
 
-#       - name: Set up Python
-#         uses: actions/setup-python@v4
-#         with:
-#           python-version: '3.11'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
 
-#       - name: Install Dependencies
-#         run: pip install requests
+      - name: Install Dependencies
+        run: pip install requests
 
-#       - name: Run Update Script
-#         run: python update_waka.py
+      - name: Run Update Script
+        run: python update_waka.py
 
-#       - name: Commit & Push if changed
-#         run: |
-#           git config user.name "github-actions[bot]"
-#           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-#           git add README.md
-#           git diff --cached --quiet || git commit -m "Update WakaTime stats"
-#           git push
+      - name: Commit & Push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || git commit -m "Update WakaTime stats"
+          git push
