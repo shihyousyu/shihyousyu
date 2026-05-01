@@ -1,19 +1,42 @@
+import os
 import requests
 import re
-from requests.auth import HTTPBasicAuth
-import base64
 
 README = "README.md"
 START = "<!--START_SECTION:waka-->"
 END = "<!--END_SECTION:waka-->"
-api_key = "waka_de9b804e-052e-429f-8bad-5c3ee8e54e03"
+API_KEY = os.environ.get("WAKATIME_API_KEY", "")
 
-url = f"https://wakatime.com/api/v1/users/Syu/stats"
-headers = {
-    "Authorization": f"Basic {base64.b64encode(api_key.encode()).decode()}"
+# 這是我 wakatime 壞掉遺失的時數，我沒作弊
+DELTA = {
+    "languages": {
+        "C++":      597 * 60,
+        "Java":     650 * 60,
+        "Markdown": 383 * 60,
+        "Python":   379 * 60,
+        "Dart":      82 * 60,
+        "HTML":      49 * 60,
+        "C":        126 * 60,
+        "Other":     54 * 60,
+        "Assembly": 113 * 60,
+        "Vue.js":    55 * 60,
+        "Bash":      40 * 60,
+        "Go":        31 * 60,
+        "Text":      13 * 60,
+        "CSS":        6 * 60,
+        "YAML":      14 * 60,
+    },
+    "operating_systems": {
+        "Windows": 1688 * 60,
+        "Mac":      599 * 60,
+        "Linux":    279 * 60,
+    },
 }
-r = requests.get("https://wakatime.com/api/v1/users/current/stats/last_7_days", headers=headers)
 
+r = requests.get(
+    "https://api.wakatime.com/api/v1/users/current/stats/all_time",
+    params={"api_key": API_KEY}
+)
 res = r.json()["data"]
 
 def parse(text):
@@ -29,12 +52,42 @@ def parse(text):
         s = int(match_s.group(1))
     return h*60 + m + s/60  # 分鐘
 
+
 def toHour(total_minutes):
     h = int(total_minutes // 60)
     m = int(total_minutes % 60)
     return f"{h} hrs {m} mins"
 
-s = toHour(sum([parse(res["categories"][i]["name"])for i in range(len(res["categories"]))]))
+
+def apply_delta(items, delta_map):
+    if not delta_map:
+        return items
+
+    # 補時數
+    existing = {i["name"] for i in items}
+    for item in items:
+        if item["name"] in delta_map:
+            item["total_seconds"] += delta_map[item["name"]]
+
+    for name, secs in delta_map.items():
+        if name not in existing:
+            items.append({"name": name, "total_seconds": secs, "percent": 0})
+
+    new_total = sum(i["total_seconds"] for i in items)
+    for item in items:
+        item["percent"] = round(item["total_seconds"] / new_total * 100, 2) if new_total else 0
+        item["text"] = toHour(item["total_seconds"] / 60)
+
+    items.sort(key=lambda x: x["total_seconds"], reverse=True)
+    return items
+
+
+res["languages"] = apply_delta(res["languages"], DELTA["languages"])
+res["operating_systems"] = apply_delta(res["operating_systems"], DELTA["operating_systems"])
+
+total_minutes = sum(i["total_seconds"] for i in res["languages"]) / 60
+s = toHour(total_minutes)
+
 
 l = ["<details>", f"<summary><h2>WakaTime：{s}</h2></summary>"]
 l.append("<h3>Language</h3>")
