@@ -1,5 +1,9 @@
 name: Update WakaTime Stats
 
+env:
+    WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+    run: python update_waka.py
+
 on:
   schedule:
     - cron: '0 0 * * *'
