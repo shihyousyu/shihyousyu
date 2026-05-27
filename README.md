@@ -43,7 +43,7 @@ SCINT 北台灣學生資訊社群 ---- 文書
 
 <!--START_SECTION:waka-->
 <details>
-<summary><h2>WakaTime：222 hrs 32 mins</h2></summary>
+<summary><h2>WakaTime：<a href="https://wakatime.com/@8a6b674e-882a-47e1-bdf4-93fe04f523c6"><img src="https://wakatime.com/badge/user/8a6b674e-882a-47e1-bdf4-93fe04f523c6.svg" alt="Total time coded since Apr 29 2025" /></a></h2></summary>
 <h3>Language</h3>
 ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Python: 51 hrs 34 mins (23.2%)  
 █████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Markdown: 43 hrs 3 mins (19.4%)  
