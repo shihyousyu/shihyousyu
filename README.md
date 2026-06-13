@@ -42,7 +42,7 @@ SCINT 北台灣學生資訊社群 ---- 文書
 * 2026 Hack The Tainan 紅藍軍攻防資安競賽  
 
 <!--START_SECTION:waka-->
-<details>
+<!-- <details>
 <summary><h2>WakaTime：228 hrs 41 mins</h2></summary>
 <h3>Language</h3>
 ███████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Python: 52 hrs 7 mins (22.8%)  
@@ -72,7 +72,7 @@ SCINT 北台灣學生資訊社群 ---- 文書
 ███████████████████████████████████████░░░░░░░░░░░    - Windows: 180 hrs 11 mins (78.9%)  
 ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Mac: 35 hrs 29 mins (15.6%)  
 ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    - Linux: 12 hrs 34 mins (5.5%)  
-</details>
+</details> -->
 <!--END_SECTION:waka-->
 
 <p align="center">
@@ -85,5 +85,6 @@ SCINT 北台灣學生資訊社群 ---- 文書
   <a href="mailto:leo950518@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="leo950518@gmail.com" style="margin-right: 8px;" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=shihyousyu&color=8ab0c6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shihyousyu&color=8ab0c6" alt="Profile Views" />  
+  <a href="https://wakatime.com/@8a6b674e-882a-47e1-bdf4-93fe04f523c6"><img src="https://wakatime.com/badge/user/8a6b674e-882a-47e1-bdf4-93fe04f523c6.svg" alt="Total time coded since Apr 29 2025" /></a>  
 </p>
