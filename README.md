@@ -7,15 +7,15 @@ SCINT 北台灣學生資訊社群 ---- 文書
 ## GitHub stats
 <p align="center">
 <img width=500 src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api?username=shihyousyu&theme=transparent&hide_border=True&text_color=FFFFFF&title_color=FFFFFF" alt="Syu's GitHub stats">
-<img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihyousyu&theme=transparent&hide_border=true&langs_count=10&text_color=FFFFFF&title_color=FFFFFF&layout=compact" alt="TopLangs">
+<img width=300 src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/top-langs/?username=shihyousyu&theme=transparent&hide_border=true&langs_count=10&text_color=FFFFFF&title_color=FFFFFF&layout=compact" alt="TopLangs">
 <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
 
 ## Tech Stack
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vue,flutter)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vue)](https://skillicons.dev)  
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=sqlite,flask,supabase,cloudflare)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=sqlite,cloudflare,flask,express,nodejs)](https://skillicons.dev)  
 
 ### Previously used
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
