@@ -12,10 +12,10 @@ SCINT 北台灣學生資訊社群 ---- 文書
 
 ## Tech Stack
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vue)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vue,flutter)](https://skillicons.dev)  
 
 ### Backend
-[![My Skills](https://skillicons.dev/icons?i=sqlite,cloudflare,flask,express,nodejs)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,cloudflare,flask,express,nodejs)](https://skillicons.dev)  
 
 ### Previously used
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python)](https://skillicons.dev)
