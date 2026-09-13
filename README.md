@@ -3,6 +3,7 @@
 嘉義高中 113 級  
 台南大學 資訊工程系 117級  
 SCINT 北台灣學生資訊社群 ---- 創始團隊、文書  
+Blog: https://blog.syu418.cc/
 
 ## GitHub stats
 <p align="center">
