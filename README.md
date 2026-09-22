@@ -7,9 +7,12 @@ Blog: https://blog.syu418.cc/
 
 ## GitHub stats
 <p align="center">
-<img width=500 src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api?username=shihyousyu&theme=transparent&hide_border=True&text_color=FFFFFF&title_color=FFFFFF" alt="Syu's GitHub stats">
-<img width=300 src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/top-langs/?username=shihyousyu&theme=transparent&hide_border=true&langs_count=10&text_color=FFFFFF&title_color=FFFFFF&layout=compact" alt="TopLangs">
-<img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph">
+<img width=500 src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api?username=shihyousyu&theme=transparent&hide_border=True&text_color=FFFFFF&title_color=FFFFFF" alt="Syu's GitHub stats">  
+<img width="500" src="https://github-readme-streak-stats-qwrw.vercel.app/?user=shihyousyu&theme=transparent&mode=weekly&fire=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF&hide_border=true" alt="GitHub Streak" />
+
+<img width=500 src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/wakatime?username=shihyousyu&theme=transparent&title_color=b7e0f3&text_color=8ab0c6&hide_border=true&layout=compact&langs_count=22&range=all_time" alt="Wakatime State" />
+<img width=500 src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/top-langs/?username=shihyousyu&theme=transparent&hide_border=true&langs_count=10&text_color=FFFFFF&title_color=FFFFFF&layout=compact" alt="TopLangs">
+<!-- <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph"> -->
 
 ## Tech Stack
 ### Frontend
