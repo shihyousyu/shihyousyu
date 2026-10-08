@@ -7,7 +7,7 @@ Blog: https://blog.syu418.cc/
 
 ## GitHub stats
 <p align="center">
-  <img width=400 src=https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/stats.svg?v=1" alt="Syu's GitHub stats">  
+  <img width="400" src="https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/stats.svg?v=1" alt="Syu's GitHub stats">  
   <img width="400" src="https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/streak-stat.svg?v=1" alt="GitHub Streak">
     
   <img src="https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/activity-graph.svg?v=1" alt="Syu's activity graph">
@@ -26,7 +26,7 @@ Blog: https://blog.syu418.cc/
 ### Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=ts,cs,rust,go)](https://skillicons.dev)  
 
-<img width=300 src="https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/top-langs.svg?v=1" alt="TopLangs">  
+<img width="300" src="https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/top-langs.svg?v=1" alt="TopLangs">  
 
 ## 社群經歷：
 * 2023 CISCON 社群月 SCINT 社群人員
