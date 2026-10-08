@@ -45,7 +45,6 @@ jobs:
               with: 
                 options: user=shihyousyu&theme=transparent&mode=weekly&fire=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&hide_border=true
                 path: dist/streak-stat.svg
-                token: ${{ secrets.GITHUB_TOKEN }}
             
             - name: Upload artifact
               uses: actions/upload-artifact@v7
