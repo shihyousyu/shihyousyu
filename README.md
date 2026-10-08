@@ -7,7 +7,7 @@ Blog: https://blog.syu418.cc/
 
 ## GitHub stats
 <p align="center">
-<img width=400 src="https://github-stats-extended.vercel.app/api?username=shihyousyu&theme=transparent&hide_border=True&text_color=FFFFFF&title_color=FFFFFF&rank_icon=github" alt="Syu's GitHub stats">  
+<img width=400 src=https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/stats.svg?v=1" alt="Syu's GitHub stats">  
 <img width="400" src="https://github-readme-streak-stats-qwrw.vercel.app/?user=shihyousyu&theme=transparent&mode=weekly&fire=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&hide_border=true" alt="GitHub Streak" />
   
 <img src="https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/activity-graph.svg?v=1" alt="Syu's activity graph">
@@ -27,7 +27,7 @@ Blog: https://blog.syu418.cc/
 ### Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=ts,cs,rust,go)](https://skillicons.dev)  
 
-<img width=300 src="https://github-readme-stats-yuuzi261s-projects.vercel.app/api/top-langs/?username=shihyousyu&theme=transparent&hide_border=true&langs_count=10&text_color=FFFFFF&title_color=FFFFFF&layout=compact" alt="TopLangs">  
+<img width=300 src="https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/top-langs.svg?v=1" alt="TopLangs">  
 
 ## 社群經歷：
 * 2023 CISCON 社群月 SCINT 社群人員
