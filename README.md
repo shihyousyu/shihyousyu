@@ -7,13 +7,12 @@ Blog: https://blog.syu418.cc/
 
 ## GitHub stats
 <p align="center">
-<img width=400 src=https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/stats.svg?v=1" alt="Syu's GitHub stats">  
-<img width="400" src="https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/streak-stat.svg?v=1" alt="GitHub Streak" />
+  <img width=400 src=https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/stats.svg?v=1" alt="Syu's GitHub stats">  
+  <img width="400" src="https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/streak-stat.svg?v=1" alt="GitHub Streak">
+    
+  <img src="https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/activity-graph.svg?v=1" alt="Syu's activity graph">
+</p>
   
-<img src="https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/activity-graph.svg?v=1" alt="Syu's activity graph">
-  
-<!-- <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=shihyousyu&hide_border=true&theme=github-compact&area=true&area_color=A6FFA6&custom_title=Syu's%20Activity%Graph" alt="Syu's Activity-Graph"> -->
-
 ## Tech Stack
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vue,flutter)](https://skillicons.dev)  
