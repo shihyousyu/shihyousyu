@@ -24,7 +24,8 @@ Blog: https://blog.syu418.cc/
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,docker)](https://skillicons.dev)
   
 ### Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=ts,cs,rust,go)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=ts,cs,rust,go,arduino)](https://skillicons.dev)  
+
 
 <img width="300" src="https://raw.githubusercontent.com/shihyousyu/shihyousyu/output/top-langs.svg?v=1" alt="TopLangs">  
 
