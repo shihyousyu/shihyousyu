@@ -39,6 +39,13 @@ jobs:
                 options: username=shihyousyu&theme=transparent&hide_border=true&langs_count=10&text_color=FFFFFF&title_color=FFFFFF&layout=compact
                 path: dist/top-langs.svg
                 token: ${{  secrets.GITHUB_TOKEN }}
+
+            - name: Generate streak stat card
+              uses: DenverCoder1/github-readme-streak-stats@v1
+              with: 
+                options: user=shihyousyu&theme=transparent&mode=weekly&fire=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&ring=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&hide_border=true
+                path: dist/streak-stat.svg
+                token: ${{ secrets.GITHUB_TOKEN }}
             
             - name: Upload artifact
               uses: actions/upload-artifact@v7
