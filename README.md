@@ -46,7 +46,6 @@ Blog: https://blog.syu418.cc/
 * 2024 YTP 少年圖靈計畫 程式挑戰營  
 * 2026 YTP 少年圖靈計畫 黑客松 入選決賽  
 * 2026 Hack The Tainan 紅藍軍攻防資安競賽
-* 2026 金盾獎
 
 <!--START_SECTION:waka-->
 <!-- <details>
